@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="album">Album</string>
+    <string name="play_list">Play list</string>
+    <string name="image_music">image_music</string>
+    <string name="title_music">Title Music</string>
+    <string name="artist_music">Artist Music</string>
+    <string name="imagePlaySong">TODO</string>
+    <string name="add_album">Add Album</string>
+    <string name="album_play">TODO</string>
+    <string name="favorite">TODO</string>
+    <string name="add_favorite">TODO</string>
+    <string name="previous">TODO</string>
+    <string name="ispPay">TODO</string>
+    <string name="next">TODO</string>
+    <string name="title_song_home">Title song</string>
+    <string name="artist_song_home">Artist song</string>
+    <string name="favorites_list">Favorites list</string>
+    <string name="create_albums">Create Albums</string>
+    <string name="name_album">Name album</string>
+    <string name="ok">Ok</string>
+    <string name="image_album">TODO</string>
+    <string name="title_album">title_album</string>
+    <string name="new_a_album">New a album</string>
+    <string name="img_menu">TODO</string>
+    <string name="name_bottom_album">Name album</string>
+    <string name="add_bottom_album">TODO</string>
+    <string name="img_avt_bottom">TODO</string>
+    <string name="name_album_song_in_album">Name album</string>
+    <string name="select_album">Select album</string>
+</resources>

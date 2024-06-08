@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.DialogCreateAlbumFragment">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:inputType="none"
+        android:text="@string/new_a_album"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/tv_newAlbum"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:autofillHints=""
+        android:hint="@string/name_album"
+        android:inputType="none"
+        android:singleLine="true" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_ok"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bcr_view"
+        android:text="@string/ok"
+        android:textSize="15sp" />
+
+
+</LinearLayout>

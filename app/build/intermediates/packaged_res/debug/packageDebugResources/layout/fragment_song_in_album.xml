@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".fragment.SongInAlbumFragment">
+
+    <TextView
+        android:id="@+id/tv_name_album"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:text="@string/name_album_song_in_album"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:drawableLeftCompat="@drawable/ic_album_name" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_song_in_album"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

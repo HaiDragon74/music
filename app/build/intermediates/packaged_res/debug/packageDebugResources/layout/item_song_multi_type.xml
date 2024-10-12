@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="?android:attr/selectableItemBackground">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_song_home"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@android:color/transparent"
+        app:cardCornerRadius="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imgSong"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/image_music"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_favourite" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation_song_play"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="end|bottom"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/animation_play" />
+
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_tv_song"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_toStartOf="@id/img_menu"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@id/cv_song_home"
+        app:layout_constraintEnd_toStartOf="@id/img_menu"
+        app:layout_constraintStart_toEndOf="@id/cv_song_home"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:fontFamily="@font/roboto_light"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:text="@string/title"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvArtist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:lines="1"
+            android:fontFamily="@font/roboto_light"
+            android:text="@string/artist_music"
+            android:textColor="@color/white_artist"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/img_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/cv_song_home"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="6dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/img_menu"
+        android:src="@drawable/ic_more"
+        app:layout_constraintBottom_toBottomOf="@id/cv_song_home"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

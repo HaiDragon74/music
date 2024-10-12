@@ -11,6 +11,7 @@ espressoCore = "3.5.1"
 appcompat = "1.6.1"
 kotlinxCoroutinesCore = "1.7.3"
 lifecycleViewmodelKtx = "2.7.0"
+lottie = "3.7.0"
 material = "1.11.0"
 activity = "1.8.0"
 constraintlayout = "2.1.4"
@@ -18,6 +19,11 @@ media = "1.7.0"
 navigationFragmentKtx = "2.7.7"
 navigationUiKtx = "2.7.7"
 roomCompiler = "2.6.1"
+roundedimageview = "2.3.0"
+swiperefreshlayout = "1.1.0"
+transformationlayout = "1.1.4"
+annotations = "15.0"
+core = "1.13.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -27,6 +33,7 @@ androidx-media = { module = "androidx.media:media", version.ref = "media" }
 androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
 androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomCompiler" }
 androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomCompiler" }
+androidx-swiperefreshlayout = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version.ref = "swiperefreshlayout" }
 compiler = { module = " com.github.bumptech.glide:compiler", version.ref = "compiler" }
 glide = { module = "com.github.bumptech.glide:glide", version.ref = "compiler" }
 glide-v4160 = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
@@ -37,11 +44,16 @@ androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-co
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinxCoroutinesCore" }
 kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinxCoroutinesCore" }
+lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 androidx-navigation-fragment-ktx = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigationFragmentKtx" }
 androidx-navigation-ui-ktx = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navigationUiKtx" }
+roundedimageview = { module = "com.makeramen:roundedimageview", version.ref = "roundedimageview" }
+transformationlayout = { module = "com.github.skydoves:transformationlayout", version.ref = "transformationlayout" }
+annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }
+androidx-core = { group = "androidx.core", name = "core", version.ref = "core" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }

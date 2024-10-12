@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bcr_dialog_bottom"
+   >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/tv_name_song_dialog_bottom"
+        android:text="@string/name_song"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/roboto_light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next_play"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/bcr_click_item_dialog_bottom"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:id="@+id/tv_next_play"
+        android:padding="10dp"
+        android:fontFamily="@font/roboto_light"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/add_to_the_list"
+        android:textSize="15sp"
+        android:id="@+id/tv_add_to_the_list"
+        android:layout_marginTop="14dp"
+        android:padding="10dp"
+        android:fontFamily="@font/roboto_light"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_to_the_playlist"
+        android:textSize="15sp"
+        android:id="@+id/tv_add_to_the_playlist"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="14dp"
+        android:fontFamily="@font/roboto_light"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/remove_from_the_device"
+        android:textSize="15sp"
+        android:id="@+id/tv_remove_from_the_device"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="14dp"
+        android:fontFamily="@font/roboto_light"
+        />
+
+
+</LinearLayout>

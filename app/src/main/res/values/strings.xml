@@ -31,5 +31,25 @@
     <string name="add_bottom_album">TODO</string>
     <string name="img_avt_bottom">TODO</string>
     <string name="name_album_song_in_album">Name album</string>
-    <string name="select_album">Select album</string>
+    <string name="name_song">Name_Song</string>
+    <string name="hh_music">HHMusic</string>
+    <string name="all">All</string>
+    <string name="recently">Recently</string>
+    <string name="number_playlist">Number Playlist</string>
+    <string name="title">Title</string>
+    <string name="number_played_song">Number played song</string>
+    <string name="more">More</string>
+    <string name="action_image">action_image</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="play">Play</string>
+    <string name="recent_songs">Recent song</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="_0">0</string>
+    <string name="my_top_tracks">My Top Tracks</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="next_play">Next play</string>
+    <string name="add_to_the_list">Add to the list</string>
+    <string name="add_to_the_playlist">Add to the playlist</string>
+    <string name="remove_from_the_device">Remove from the device</string>
 </resources>

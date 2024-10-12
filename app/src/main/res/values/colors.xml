@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="black_exit">#80000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_play_title_song">#E0E0E0</color>
+    <color name="color_play__artist_song">#B3B3B3</color>
+    <color name="bcr_tab">#BDBDBD</color>
+    <color name="white_text">#E0F7FA</color>
+    <color name="white_artist">#FFEBEE</color>
+    <color name="background_app">#0D0D0C</color>
+    <color name="background_click_item">#1E2D30</color>
+    <color name="red">#F22222</color>
+    <color name="blue_title_song_play">#2E9BC1</color>
 </resources>

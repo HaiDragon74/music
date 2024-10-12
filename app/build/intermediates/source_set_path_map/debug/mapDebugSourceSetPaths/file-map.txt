@@ -1,0 +1,60 @@
+com.haidragon.musicapp-appcompat-1.6.1-0 C:\Users\ADMIN\.gradle\caches\transforms-3\089600d89e7f27a19d975e032dbd27d9\transformed\appcompat-1.6.1\res
+com.haidragon.musicapp-navigation-ui-2.7.7-1 C:\Users\ADMIN\.gradle\caches\transforms-3\0f47c23791738dc3becfb840a69f172c\transformed\navigation-ui-2.7.7\res
+com.haidragon.musicapp-lifecycle-process-2.7.0-2 C:\Users\ADMIN\.gradle\caches\transforms-3\16f8439c1798d330e01f2575176e11e9\transformed\lifecycle-process-2.7.0\res
+com.haidragon.musicapp-material-1.11.0-3 C:\Users\ADMIN\.gradle\caches\transforms-3\18589b3993d536b4de1c46a994e10b0b\transformed\material-1.11.0\res
+com.haidragon.musicapp-appcompat-resources-1.6.1-4 C:\Users\ADMIN\.gradle\caches\transforms-3\244bb8f2b3b7d6d292ea37587ec30505\transformed\appcompat-resources-1.6.1\res
+com.haidragon.musicapp-drawerlayout-1.1.1-5 C:\Users\ADMIN\.gradle\caches\transforms-3\2f255ec3b9327e83d008098461c96717\transformed\drawerlayout-1.1.1\res
+com.haidragon.musicapp-recyclerview-1.1.0-6 C:\Users\ADMIN\.gradle\caches\transforms-3\3077222f12cce1942fbb26d7a32cd3c9\transformed\recyclerview-1.1.0\res
+com.haidragon.musicapp-lifecycle-runtime-ktx-2.7.0-7 C:\Users\ADMIN\.gradle\caches\transforms-3\345ae040ce196410de5fe782d763a5dd\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.haidragon.musicapp-core-ktx-1.13.1-8 C:\Users\ADMIN\.gradle\caches\transforms-3\3568a4c8cdda94c5efcd37560e9069b2\transformed\core-ktx-1.13.1\res
+com.haidragon.musicapp-slidingpanelayout-1.2.0-9 C:\Users\ADMIN\.gradle\caches\transforms-3\3842074cb5d0019fd52fec742d138957\transformed\slidingpanelayout-1.2.0\res
+com.haidragon.musicapp-navigation-ui-ktx-2.7.7-10 C:\Users\ADMIN\.gradle\caches\transforms-3\3aa1253be8192878ef36df6d42ad6e4e\transformed\navigation-ui-ktx-2.7.7\res
+com.haidragon.musicapp-activity-ktx-1.8.0-11 C:\Users\ADMIN\.gradle\caches\transforms-3\4597dd172bf89b824d2e014897789507\transformed\activity-ktx-1.8.0\res
+com.haidragon.musicapp-savedstate-ktx-1.2.1-12 C:\Users\ADMIN\.gradle\caches\transforms-3\593f75982aae41a2272eaffd7232bb71\transformed\savedstate-ktx-1.2.1\res
+com.haidragon.musicapp-window-1.0.0-13 C:\Users\ADMIN\.gradle\caches\transforms-3\67964322b935155eb57d21c6cbab7909\transformed\window-1.0.0\res
+com.haidragon.musicapp-transition-1.4.1-14 C:\Users\ADMIN\.gradle\caches\transforms-3\68137ea7a7bb0f33335632324d7f9a6a\transformed\transition-1.4.1\res
+com.haidragon.musicapp-annotation-experimental-1.4.0-15 C:\Users\ADMIN\.gradle\caches\transforms-3\6855c0d396d16579d830e62f7a5840ce\transformed\annotation-experimental-1.4.0\res
+com.haidragon.musicapp-fragment-ktx-1.6.2-16 C:\Users\ADMIN\.gradle\caches\transforms-3\6e66153637d8fc0b5c94b72330282fc9\transformed\fragment-ktx-1.6.2\res
+com.haidragon.musicapp-activity-1.8.0-17 C:\Users\ADMIN\.gradle\caches\transforms-3\74966cb74c08d31bf574d6f4c7da6c19\transformed\activity-1.8.0\res
+com.haidragon.musicapp-viewpager2-1.0.0-18 C:\Users\ADMIN\.gradle\caches\transforms-3\74d9fd23b75bcfe968ac0214c235a768\transformed\viewpager2-1.0.0\res
+com.haidragon.musicapp-navigation-runtime-2.7.7-19 C:\Users\ADMIN\.gradle\caches\transforms-3\7a4d6eb71a5d5ffd3156e0ecad766ccf\transformed\navigation-runtime-2.7.7\res
+com.haidragon.musicapp-emoji2-views-helper-1.2.0-20 C:\Users\ADMIN\.gradle\caches\transforms-3\7b94abf680e21b7359b1d986afd283c3\transformed\emoji2-views-helper-1.2.0\res
+com.haidragon.musicapp-navigation-common-2.7.7-21 C:\Users\ADMIN\.gradle\caches\transforms-3\828b5d9fb56c9de5fa5d167543689cb9\transformed\navigation-common-2.7.7\res
+com.haidragon.musicapp-glide-4.16.0-22 C:\Users\ADMIN\.gradle\caches\transforms-3\898b14f04940d3f4b8f9ca296e9f39c0\transformed\glide-4.16.0\res
+com.haidragon.musicapp-navigation-fragment-2.7.7-23 C:\Users\ADMIN\.gradle\caches\transforms-3\8d32369f7554449879dfa13bb4b42488\transformed\navigation-fragment-2.7.7\res
+com.haidragon.musicapp-constraintlayout-2.1.4-24 C:\Users\ADMIN\.gradle\caches\transforms-3\8f6bfb08a8eb9a9817b49e5b867c59fe\transformed\constraintlayout-2.1.4\res
+com.haidragon.musicapp-coordinatorlayout-1.1.0-25 C:\Users\ADMIN\.gradle\caches\transforms-3\906b61a000cdbaffb8183ff8227195e1\transformed\coordinatorlayout-1.1.0\res
+com.haidragon.musicapp-sqlite-framework-2.4.0-26 C:\Users\ADMIN\.gradle\caches\transforms-3\9828d05fe104e1c8e17ff8803ddae639\transformed\sqlite-framework-2.4.0\res
+com.haidragon.musicapp-core-1.13.1-27 C:\Users\ADMIN\.gradle\caches\transforms-3\a0ddfefb43dc5335a3d6215a71aa9d00\transformed\core-1.13.1\res
+com.haidragon.musicapp-lifecycle-livedata-2.7.0-28 C:\Users\ADMIN\.gradle\caches\transforms-3\a7f05532873fa63d3fdc7e2918f55b4f\transformed\lifecycle-livedata-2.7.0\res
+com.haidragon.musicapp-swiperefreshlayout-1.1.0-29 C:\Users\ADMIN\.gradle\caches\transforms-3\ba0b6572189d1c0afcdc7315ee960bc5\transformed\swiperefreshlayout-1.1.0\res
+com.haidragon.musicapp-room-ktx-2.6.1-30 C:\Users\ADMIN\.gradle\caches\transforms-3\bdaecef6ef2d69edbabb5ca3c6186be2\transformed\room-ktx-2.6.1\res
+com.haidragon.musicapp-profileinstaller-1.3.0-31 C:\Users\ADMIN\.gradle\caches\transforms-3\bdd77d5479ed711a22beb97b74c4b917\transformed\profileinstaller-1.3.0\res
+com.haidragon.musicapp-navigation-runtime-ktx-2.7.7-32 C:\Users\ADMIN\.gradle\caches\transforms-3\c46ab6045547f69bc331684b2f9a1511\transformed\navigation-runtime-ktx-2.7.7\res
+com.haidragon.musicapp-core-runtime-2.2.0-33 C:\Users\ADMIN\.gradle\caches\transforms-3\c4d56fabd04fb3270dd569cd72900c07\transformed\core-runtime-2.2.0\res
+com.haidragon.musicapp-savedstate-1.2.1-34 C:\Users\ADMIN\.gradle\caches\transforms-3\c5e78423da58d23ee9f48c941e069308\transformed\savedstate-1.2.1\res
+com.haidragon.musicapp-lifecycle-viewmodel-savedstate-2.7.0-35 C:\Users\ADMIN\.gradle\caches\transforms-3\c6243dc5a36e18eae11bef838a87d566\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.haidragon.musicapp-lifecycle-livedata-core-2.7.0-36 C:\Users\ADMIN\.gradle\caches\transforms-3\d01c7217d4c5adc8a581ba2df8661257\transformed\lifecycle-livedata-core-2.7.0\res
+com.haidragon.musicapp-lifecycle-viewmodel-2.7.0-37 C:\Users\ADMIN\.gradle\caches\transforms-3\d60d3dcf856312f4c7de433357aa2344\transformed\lifecycle-viewmodel-2.7.0\res
+com.haidragon.musicapp-emoji2-1.2.0-38 C:\Users\ADMIN\.gradle\caches\transforms-3\d789a5b9dac7312f72bc57839e957598\transformed\emoji2-1.2.0\res
+com.haidragon.musicapp-lottie-3.7.0-39 C:\Users\ADMIN\.gradle\caches\transforms-3\e20e443e8d35fd4153c3dac3e93516df\transformed\lottie-3.7.0\res
+com.haidragon.musicapp-startup-runtime-1.1.1-40 C:\Users\ADMIN\.gradle\caches\transforms-3\e32f15f167f7521020e97e30dd04830e\transformed\startup-runtime-1.1.1\res
+com.haidragon.musicapp-room-runtime-2.6.1-41 C:\Users\ADMIN\.gradle\caches\transforms-3\e4e9ab06fe2aa28bc1f60b05f3a90988\transformed\room-runtime-2.6.1\res
+com.haidragon.musicapp-MDToast-1.0.0-42 C:\Users\ADMIN\.gradle\caches\transforms-3\e50737cd3cf76d3546f1a5baecacdd3b\transformed\MDToast-1.0.0\res
+com.haidragon.musicapp-sqlite-2.4.0-43 C:\Users\ADMIN\.gradle\caches\transforms-3\e577b200ec73c416718559feda0ccad3\transformed\sqlite-2.4.0\res
+com.haidragon.musicapp-lifecycle-runtime-2.7.0-44 C:\Users\ADMIN\.gradle\caches\transforms-3\e8cb910a03440cedeb3353653267c89b\transformed\lifecycle-runtime-2.7.0\res
+com.haidragon.musicapp-media-1.7.0-45 C:\Users\ADMIN\.gradle\caches\transforms-3\eb7494ad3b80ee6977b5542d372d77ab\transformed\media-1.7.0\res
+com.haidragon.musicapp-navigation-fragment-ktx-2.7.7-46 C:\Users\ADMIN\.gradle\caches\transforms-3\ed7368931fe0d0f7ec2ef951e9d98a22\transformed\navigation-fragment-ktx-2.7.7\res
+com.haidragon.musicapp-fragment-1.6.2-47 C:\Users\ADMIN\.gradle\caches\transforms-3\efe90cef20e780ae707804b8cae34e8a\transformed\fragment-1.6.2\res
+com.haidragon.musicapp-lifecycle-livedata-core-ktx-2.7.0-48 C:\Users\ADMIN\.gradle\caches\transforms-3\f0625b803b7baac3e76ae3ff219c48ea\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.haidragon.musicapp-lifecycle-livedata-ktx-2.7.0-49 C:\Users\ADMIN\.gradle\caches\transforms-3\f5ff793be695a0fd663481995e605e76\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.haidragon.musicapp-lifecycle-viewmodel-ktx-2.7.0-50 C:\Users\ADMIN\.gradle\caches\transforms-3\f78d392ebf6ec594d53353c5fe72d176\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.haidragon.musicapp-cardview-1.0.0-51 C:\Users\ADMIN\.gradle\caches\transforms-3\fcc2cb301c6ab0d1dda4e25b7e469988\transformed\cardview-1.0.0\res
+com.haidragon.musicapp-navigation-common-ktx-2.7.7-52 C:\Users\ADMIN\.gradle\caches\transforms-3\fe78eb49d59c2c830f56647f124fe9b2\transformed\navigation-common-ktx-2.7.7\res
+com.haidragon.musicapp-pngs-53 D:\Application\App User\MusicApp\app\build\generated\res\pngs\debug
+com.haidragon.musicapp-resValues-54 D:\Application\App User\MusicApp\app\build\generated\res\resValues\debug
+com.haidragon.musicapp-packageDebugResources-55 D:\Application\App User\MusicApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.haidragon.musicapp-packageDebugResources-56 D:\Application\App User\MusicApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.haidragon.musicapp-debug-57 D:\Application\App User\MusicApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.haidragon.musicapp-debug-58 D:\Application\App User\MusicApp\app\src\debug\res
+com.haidragon.musicapp-main-59 D:\Application\App User\MusicApp\app\src\main\res

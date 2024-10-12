@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".presentation.ui.fragment.PlaylistFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/relativeLayout_play_list"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:gravity="center_vertical"
+            android:textStyle="bold"
+            android:layout_alignBottom="@id/cv_plus_play_list"
+            android:layout_alignTop="@id/cv_plus_play_list"
+            android:fontFamily="@font/roboto_light"
+            android:layout_toStartOf="@id/cv_plus_play_list"
+            android:textColor="@color/white"
+            android:id="@+id/tv_title_recently_played"
+            android:text="@string/number_playlist" />
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_alignParentEnd="true"
+            app:cardCornerRadius="3dp"
+            android:id="@+id/cv_plus_play_list"
+            android:layout_marginEnd="8dp"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:id="@+id/btn_plus_play_list"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:contentDescription="@string/action_image"
+                android:text="@string/more"
+                android:padding="8dp"
+                android:alpha="0.8"
+                android:src="@drawable/ic_add"
+                android:background="@drawable/bcr_click_action"
+                android:fontFamily="@font/roboto_light"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                app:tint="@color/white" />
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/relativeLayout_play_list"
+        android:layout_height="0dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_song_multi_type"
+        android:id="@+id/recycler_play_list"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

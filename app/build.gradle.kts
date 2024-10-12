@@ -2,14 +2,15 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
     id("kotlin-kapt")
+    id("com.google.dagger.hilt.android")
 }
 
 android {
-    namespace = "com.remotetechs.musicapp"
+    namespace = "com.haidragon.musicapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.remotetechs.musicapp"
+        applicationId = "com.haidragon.musicapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -37,6 +38,9 @@ android {
     buildFeatures {
         viewBinding=true
     }
+    kapt {
+        correctErrorTypes = true
+    }
 }
 
 dependencies {
@@ -48,6 +52,8 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.navigation.ui.ktx)
+    implementation(libs.annotations)
+    implementation(libs.androidx.core)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -64,5 +70,14 @@ dependencies {
     implementation (libs.kotlinx.coroutines.android)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.lifecycle.livedata.ktx)
+    //hit
+    implementation("com.google.dagger:hilt-android:2.51")
+    kapt("com.google.dagger:hilt-android-compiler:2.51")
+    //resset
+    implementation (libs.androidx.swiperefreshlayout)
+    //$lottie
+    implementation (libs.lottie)
+    //AwesomeToastLibrary
+    implementation ("com.github.mortezaom:MDToast:1.0.0")
 
 }

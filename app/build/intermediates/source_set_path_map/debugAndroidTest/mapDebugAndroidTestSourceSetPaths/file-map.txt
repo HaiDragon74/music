@@ -1,0 +1,6 @@
+com.haidragon.musicapp.test.app-annotation-experimental-1.4.0-0 C:\Users\ADMIN\.gradle\caches\transforms-3\6855c0d396d16579d830e62f7a5840ce\transformed\annotation-experimental-1.4.0\res
+com.haidragon.musicapp.test.app-core-1.5.0-1 C:\Users\ADMIN\.gradle\caches\transforms-3\6e82f1940019bbd8d16badf9ce568604\transformed\core-1.5.0\res
+com.haidragon.musicapp.test.app-androidTest-2 D:\Application\App User\MusicApp\app\build\generated\res\resValues\androidTest\debug
+com.haidragon.musicapp.test.app-mergeDebugAndroidTestResources-3 D:\Application\App User\MusicApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.haidragon.musicapp.test.app-mergeDebugAndroidTestResources-4 D:\Application\App User\MusicApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.haidragon.musicapp.test.app-debugAndroidTest-5 D:\Application\App User\MusicApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

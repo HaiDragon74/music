@@ -1,0 +1,3 @@
+com.haidragon.musicapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

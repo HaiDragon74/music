@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/bcr_on_click_play_bottom" />
+    <item android:drawable="@drawable/bcr_play_bottom" />
+</selector>

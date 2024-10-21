@@ -825,6 +825,7 @@ attr logoScaleType
 attr lottieAnimationViewStyle
 attr lottie_autoPlay
 attr lottie_cacheComposition
+attr lottie_clipToCompositionBounds
 attr lottie_colorFilter
 attr lottie_enableMergePathsForKitKatAndAbove
 attr lottie_fallbackRes
@@ -837,7 +838,6 @@ attr lottie_rawRes
 attr lottie_renderMode
 attr lottie_repeatCount
 attr lottie_repeatMode
-attr lottie_scale
 attr lottie_speed
 attr lottie_url
 attr marginHorizontal
@@ -2176,6 +2176,7 @@ color tooltip_background_dark
 color tooltip_background_light
 color white
 color white_artist
+color white_progress
 color white_text
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -3057,6 +3058,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable background_home_item_tab_tv
 drawable background_home_item_tab_tv_red
+drawable background_progress_splash
 drawable bck_bottom_play_music
 drawable bck_exit
 drawable bcr_action
@@ -3075,6 +3077,7 @@ drawable bcr_on_click_bottom_dialog
 drawable bcr_on_click_play_bottom
 drawable bcr_play_bottom
 drawable bcr_play_music
+drawable bcr_splash
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3297,6 +3300,7 @@ id always
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
+id animationView
 id animation_song_play
 id antiClockwise
 id anticipate
@@ -3634,6 +3638,7 @@ id pin
 id position
 id postLayout
 id pressed
+id progressBar_splash
 id progress_circular
 id progress_horizontal
 id radio
@@ -3940,6 +3945,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_play_music
+layout activity_splash_screen
 layout custom_dialog
 layout custom_toast_container
 layout design_bottom_navigation_item
@@ -4052,6 +4058,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw animation_play
+raw splash_screen
 string _0
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -5478,7 +5485,7 @@ styleable LinearLayoutCompat android_gravity android_orientation android_baselin
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionLinear
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
-styleable LottieAnimationView lottie_autoPlay lottie_cacheComposition lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fallbackRes lottie_fileName lottie_ignoreDisabledSystemAnimations lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_renderMode lottie_repeatCount lottie_repeatMode lottie_scale lottie_speed lottie_url
+styleable LottieAnimationView lottie_autoPlay lottie_cacheComposition lottie_clipToCompositionBounds lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fallbackRes lottie_fileName lottie_ignoreDisabledSystemAnimations lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_renderMode lottie_repeatCount lottie_repeatMode lottie_speed lottie_url
 styleable MaterialAlertDialog backgroundInsetBottom backgroundInsetEnd backgroundInsetStart backgroundInsetTop backgroundTint
 styleable MaterialAlertDialogTheme materialAlertDialogBodyTextStyle materialAlertDialogButtonSpacerVisibility materialAlertDialogTheme materialAlertDialogTitleIconStyle materialAlertDialogTitlePanelStyle materialAlertDialogTitleTextStyle
 styleable MaterialAutoCompleteTextView android_inputType android_popupElevation dropDownBackgroundTint simpleItemLayout simpleItemSelectedColor simpleItemSelectedRippleColor simpleItems

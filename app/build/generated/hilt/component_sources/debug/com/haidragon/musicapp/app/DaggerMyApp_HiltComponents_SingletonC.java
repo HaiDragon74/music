@@ -546,15 +546,15 @@ public final class DaggerMyApp_HiltComponents_SingletonC {
 
     @IdentifierNameString
     private static final class LazyClassKeyProvider {
-      static String com_haidragon_musicapp_presentation_viewmodel_SongViewModel = "com.haidragon.musicapp.presentation.viewmodel.SongViewModel";
-
       static String com_haidragon_musicapp_presentation_viewmodel_AlbumViewModel = "com.haidragon.musicapp.presentation.viewmodel.AlbumViewModel";
 
-      @KeepFieldType
-      SongViewModel com_haidragon_musicapp_presentation_viewmodel_SongViewModel2;
+      static String com_haidragon_musicapp_presentation_viewmodel_SongViewModel = "com.haidragon.musicapp.presentation.viewmodel.SongViewModel";
 
       @KeepFieldType
       AlbumViewModel com_haidragon_musicapp_presentation_viewmodel_AlbumViewModel2;
+
+      @KeepFieldType
+      SongViewModel com_haidragon_musicapp_presentation_viewmodel_SongViewModel2;
     }
 
     private static final class SwitchingProvider<T> implements Provider<T> {

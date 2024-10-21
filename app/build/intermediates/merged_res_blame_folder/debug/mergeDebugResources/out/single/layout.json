@@ -12,8 +12,8 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_multi_type.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\fragment_dia_log_bottom_album.xml",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_album.xml"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\activity_splash_screen.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\fragment_dialog_create_ablbum.xml",
@@ -60,6 +60,10 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_song.xml"
     },
     {
+        "merged": "com.haidragon.musicapp-mergeDebugResources-56:/layout/activity_splash_screen.xml",
+        "source": "com.haidragon.musicapp-main-59:/layout/activity_splash_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\item_playlist.xml",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_playlist.xml"
     },
@@ -74,10 +78,6 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\fragment_favourite.xml",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_favourite.xml"
-    },
-    {
-        "merged": "com.haidragon.musicapp-mergeDebugResources-56:/layout/activity_main.xml",
-        "source": "com.haidragon.musicapp-main-59:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-mergeDebugResources-56:\\layout\\fragment_song.xml",

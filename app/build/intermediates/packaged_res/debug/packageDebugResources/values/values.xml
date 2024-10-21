@@ -2,7 +2,7 @@
 <resources>
     <color name="background_app">#0D0D0C</color>
     <color name="background_click_item">#1E2D30</color>
-    <color name="bcr_tab">#BDBDBD</color>
+    <color name="bcr_tab">#A88E8E</color>
     <color name="black">#FF000000</color>
     <color name="black_exit">#80000000</color>
     <color name="blue_title_song_play">#2E9BC1</color>
@@ -11,6 +11,7 @@
     <color name="red">#F22222</color>
     <color name="white">#FFFFFFFF</color>
     <color name="white_artist">#FFEBEE</color>
+    <color name="white_progress">#FF03DAC5</color>
     <color name="white_text">#E0F7FA</color>
     <string name="_0">0</string>
     <string name="action_image">action_image</string>

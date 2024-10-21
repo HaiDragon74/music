@@ -37,13 +37,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.MusicApp" >
         <activity
-            android:name="com.haidragon.musicapp.activity.SongInAlbumActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.haidragon.musicapp.presentation.ui.activity.PlayMusicActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.haidragon.musicapp.presentation.ui.activity.HomeActivity"
+            android:name="com.haidragon.musicapp.presentation.ui.activity.SplashScreenActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -51,12 +45,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.haidragon.musicapp.presentation.ui.activity.PlayMusicActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.haidragon.musicapp.presentation.ui.activity.HomeActivity"
+            android:exported="false" />
 
         <service
             android:name="com.haidragon.musicapp.service.MusicService"
             android:exported="false"
-            android:foregroundServiceType="mediaPlayback" >
-        </service>
+            android:foregroundServiceType="mediaPlayback" />
 
         <receiver android:name="com.haidragon.musicapp.service.MusicBroadcastReceiver" />
 

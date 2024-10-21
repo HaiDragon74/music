@@ -79,5 +79,7 @@ dependencies {
     implementation (libs.lottie)
     //AwesomeToastLibrary
     implementation ("com.github.mortezaom:MDToast:1.0.0")
+    //lottie
+    implementation ("com.airbnb.android:lottie:5.0.3")
 
 }

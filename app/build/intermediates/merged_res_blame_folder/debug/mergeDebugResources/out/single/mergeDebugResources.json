@@ -4,20 +4,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\anim\\animation_left_right.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dialog_create_ablbum.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dialog_create_ablbum.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_click_play_bottom.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_play_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_click_tab.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_tab.png"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_click_item_song.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_item_song.xml"
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_action.png.flat",
@@ -28,36 +20,24 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dia_log_bottom_album.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_album.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_recently_played.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_recently_played.png"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_previous.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_previous.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_resume_song.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_resume_song.xml"
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_app.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_app.png"
     },
     {
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_more.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -72,44 +52,20 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_on_click_music.png"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_pause.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_pause.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_add.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_add.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_shape.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_shape.xml"
     },
     {
-        "merged": "com.haidragon.musicapp-debug-57:/layout_activity_main.xml.flat",
-        "source": "com.haidragon.musicapp-main-59:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_play_music.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_play_music.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_no_click_tab.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_no_click_tab.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_album.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_album.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_background_home_item_tab_tv.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\background_home_item_tab_tv.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_background_home_item_tab_tv_red.xml.flat",
@@ -132,28 +88,8 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_favourite.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_close.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_close.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_music_play.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_music_play.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_activity_play_music.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\activity_play_music.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_favorite.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_favorite.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -164,24 +100,20 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_action.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_action_bottom.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_action_bottom.xml"
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dia_log_bottom_playlist.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_playlist.xml"
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song_multi_type.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_multi_type.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dia_log_bottom_song.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_song.xml"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_splash.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_play_bottom.png.flat",
@@ -192,48 +124,24 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_resume.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\raw_animation_play.json.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\raw\\animation_play.json"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_album_name.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_album_name.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_action_music.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_action_music.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_song.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_song.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_action.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_action.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_down.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_down.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song_storage.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_storage.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_favourite.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_favourite.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_album.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_album.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_bottom_dialog.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_bottom_dialog.png"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_home.xml"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_favourite.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_favourite.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_next.xml.flat",
@@ -248,8 +156,8 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_playlist.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_no_click_tab.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_no_click_tab.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -260,16 +168,8 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_list.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_list.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_delete.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_delete.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_music.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_music.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song.xml.flat",
@@ -308,10 +208,6 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_song_in_album.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_song_in_album.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_shuffle.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_shuffle.xml"
     },
@@ -324,16 +220,16 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_avt_album.jpg"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\xml\\backup_rules.xml"
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\activity_splash_screen.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_dialog_bottom.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_dialog_bottom.png"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\anim_animation_bottom_top.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\anim\\animation_bottom_top.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bck_exit.xml.flat",
@@ -344,24 +240,20 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_play.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_play_bottom.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_play_bottom.png"
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_background_progress_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\background_progress_splash.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song_recently.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_recently.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_img_avt.jpg.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_img_avt.jpg"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_recently_added.png.flat",
@@ -370,5 +262,165 @@
     {
         "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\font_roboto_light.ttf.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dialog_create_ablbum.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dialog_create_ablbum.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_click_item_song.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_item_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_recently_played.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_recently_played.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_previous.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_resume_song.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_resume_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_background_home_item_tab_tv.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\background_home_item_tab_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_music_play.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_music_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_action_bottom.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_action_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dia_log_bottom_playlist.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song_multi_type.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_multi_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_dia_log_bottom_song.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_dia_log_bottom_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\raw_animation_play.json.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\raw\\animation_play.json"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_action_music.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_action_music.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_action.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_action.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\raw_splash_screen.json.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\raw\\splash_screen.json"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_item_song_storage.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\item_song_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_bottom_dialog.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_bottom_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_click_tab.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_click_tab.xml"
+    },
+    {
+        "merged": "com.haidragon.musicapp-debug-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.haidragon.musicapp-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_music.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\layout_fragment_song_in_album.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\layout\\fragment_song_in_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\anim_animation_bottom_top.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\anim\\animation_bottom_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_bcr_on_click_play_bottom.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\bcr_on_click_play_bottom.png"
+    },
+    {
+        "merged": "com.haidragon.musicapp-debug-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.haidragon.musicapp-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\drawable_ic_img_avt.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\drawable\\ic_img_avt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-debug-57:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.4\\com.haidragon.musicapp-main-59:\\mipmap-hdpi\\ic_launcher.webp"
     }
 ]
